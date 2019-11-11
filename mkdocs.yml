@@ -9,6 +9,12 @@ theme:
   palette:
     primary: 'blue'
     accent: 'orange'
+  font:
+    text: 'Source Serif Pro'
+  custom_dir: 'theme'
+
+extra_css:
+  - extra.css
 
 markdown_extensions:
   - footnotes
