@@ -1,0 +1,15 @@
+site_name: 'DxE SF Bay Area Documents'
+site_url: 'https://docs.dxesf.org/'
+
+repo_name: 'dxe/dxesf-docs'
+repo_url: 'https://github.com/dxe/dxesf-docs'
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'orange'
+
+markdown_extensions:
+  - footnotes
+  - smarty
