@@ -1,6 +1,13 @@
 {% extends "base.html" %}
 
+{% block styles %}
+{{ super() }}
+<link href="{{ 'css/watermark.css'|url }}" rel="stylesheet">
+{% endblock %}
+
 {% block content %}
+{% if config.theme.draft %}
 <div id="watermark">DRAFT</div>
+{% endif %}
 {{ super() }}
 {% endblock %}
