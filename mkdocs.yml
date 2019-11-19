@@ -15,5 +15,6 @@ theme:
   watermark: !!python/object/apply:os.getenv ["WATERMARK"]
 
 markdown_extensions:
+  - extra
   - footnotes
   - smarty

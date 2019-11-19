@@ -8,3 +8,8 @@
     color: #e0f0ff;
     z-index: -1;
 }
+
+h2 { counter-reset: h3; }
+
+section.numbered h2:before { counter-increment: h2; content: counter(h2) ". " }
+section.numbered h3:before { counter-increment: h3; content: counter(h2) "." counter(h3) ". " }
