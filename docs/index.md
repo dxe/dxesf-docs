@@ -21,7 +21,7 @@ The Chapter organizes activities for Direct Action Everywhere within San Francis
 
 ### 3.1. Membership Classes
 
-The Chapter has three classes of members: Chapter Members, Organizers, and Senior Organizers.
+The Chapter has 3 classes of members: Chapter Members, Organizers, and Senior Organizers.
 The standards for Chapter Members, Organizers, and Senior Organizers are [maintained by the Development Committee](https://docs.google.com/document/d/19zTkVvR3hCX8HtJBF5J7ZMFTxHBSkSDKFV4E3KUXqNk/preview).
 
 Unless explicitly stated otherwise, any rule applying to Chapter Members also applies to Organizers, and any rule applying to Organizers also applies to Senior Organizers.
@@ -65,17 +65,17 @@ These will most often take place on Saturday mornings.
 Any Organizer who has been an Organizer for the last 6 months at the time of election is eligible for office.
 
 Officers will be nominated at the February regular Chapter meeting.
-The election will then take place at a special meeting held two weeks later.
+The election will then take place at a special meeting held 2 weeks later.
 
 ### 4.4. Ballot Election, Term of Office, Removal from Office
 
 Officers will be elected by ballot using [Reweighted Range Voting](https://www.rangevoting.org/RRV.html).
-Officers will serve for two years or until their successors are elected, and their term of office will be begin at the close of the annual meeting at which they are elected.
+Officers will serve for 2 years or until their successors are elected, and their term of office will be begin at the close of the meeting at which they are elected.
 Officers may be removed from office at the will of the membership as provided in the parliamentary authority.
 
 ### 4.5. Office-Holding Limitations
 
-A member cannot hold more than one office at a time.
+A member cannot hold more than 1 office at a time.
 
 ## 5. Meetings
 
@@ -94,7 +94,7 @@ If a majority threshold is not secured, the SF Bay Core will make necessary modi
 
 ### 5.3. Special Meetings
 
-Special meetings may be called by the Lead Organizer or by the SF Bay Core and must be called upon the written request of ten Organizers.
+Special meetings may be called by the Lead Organizer or by the SF Bay Core and must be called upon the written request of 10 Organizers.
 The purpose of the meeting will be stated in the meeting announcement, which must be sent to all members at least 3 days before the meeting.
 
 ### 5.4. Quorum
@@ -121,7 +121,7 @@ They will also set the hour and place of meetings, make recommendations to the C
 ### 6.3. Meetings
 
 The SF Bay Core will hold regular meetings every Monday morning from 10am to 12pm, unless ordered otherwise by the SF Bay Core.
-Special meetings of the SF Bay Core may be called by the Lead Organizer and must be called upon the written request of two Core Members.
+Special meetings of the SF Bay Core may be called by the Lead Organizer and must be called upon the written request of 2 Core Members.
 
 Meetings are normally open to the public, but advanced request is required.
 Anyone interested in visiting an SF Bay Core meeting should email [sfbay@directactioneverywhere.com](mailto:sfbay@directactioneverywhere.com) with the request.
