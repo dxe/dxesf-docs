@@ -81,7 +81,7 @@ A member cannot hold more than 1 office at a time.
 
 ### 5.1. Regular Meetings
 
-The Chapter will hold regular meetings on the first Sunday of each month at the [Berkeley Animal Rights Center](https://goo.gl/maps/qSLSR5QXyxJ49ASF6) from 11:30am to 2:30pm, unless ordered otherwise by the Chapter or the SF Bay Core.
+The Chapter will hold regular meetings on the first Sunday of each month at the [Berkeley Animal Rights Center](https://goo.gl/maps/qSLSR5QXyxJ49ASF6) from 11:30 a.m. to 2:30 p.m., unless ordered otherwise by the Chapter or the SF Bay Core.
 Notice must be sent to all members at least 1 week before the meeting.
 
 At each meeting, the SF Bay Core will update members on progress, obtain feedback, and answer questions about the past month's projects.
@@ -120,7 +120,7 @@ They will also set the hour and place of meetings, make recommendations to the C
 
 ### 6.3. Meetings
 
-The SF Bay Core will hold regular meetings every Monday morning from 9am to 12pm, unless ordered otherwise by the SF Bay Core.
+The SF Bay Core will hold regular meetings every Monday morning from 9 a.m. to 12 p.m., unless ordered otherwise by the SF Bay Core.
 Special meetings of the SF Bay Core may be called by the Lead Organizer and must be called upon the written request of 2 Core Members.
 
 Meetings are normally open to the public, but advanced request is required.
