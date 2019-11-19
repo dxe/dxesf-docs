@@ -39,8 +39,7 @@ Organizers may vote in elections, on the governance structure, on strategic plan
 
 ### 3.4. Movement-Power Index
 
-To be in good standing and eligible to vote, a Member must be on the Movement-Power Index at the time of the vote.
-That is, they must have attended both a Community and Direct Action event in the previous month, or attended both a Community and Direct Action event in the current month.
+To be in good standing and eligible to vote, a Chapter Member must have been on the Movement-Power Index for 2 of the past 3 full months at the time of the vote.
 
 ## 4. Officers
 
