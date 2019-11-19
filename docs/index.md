@@ -125,7 +125,7 @@ Special meetings of the SF Bay Core may be called by the Lead Organizer and must
 
 Meetings are normally open to the public, but advanced request is required.
 Anyone interested in visiting an SF Bay Core meeting should email [sfbay@directactioneverywhere.com](mailto:sfbay@directactioneverywhere.com) with the request.
-The first hour of regular meetings are reserved for executive session.
+The first hour of regular meetings is reserved for executive session.
 
 ## 7. Committees and Working Groups
 
