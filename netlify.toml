@@ -1,0 +1,6 @@
+# TODO(mdempsky): Remove after docs.dxesf.org is adopted.
+[build.environment]
+WATERMARK = "DRAFT"
+
+[context.deploy-preview.environment]
+WATERMARK = "DRAFT"

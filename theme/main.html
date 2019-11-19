@@ -6,8 +6,8 @@
 {% endblock %}
 
 {% block content %}
-{% if config.theme.draft %}
-<div id="watermark">DRAFT</div>
+{% if config.theme.watermark %}
+<div id="watermark">{{config.theme.watermark}}</div>
 {% endif %}
 {{ super() }}
 {% endblock %}

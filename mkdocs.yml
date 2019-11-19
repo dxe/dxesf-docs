@@ -12,9 +12,7 @@ theme:
   font:
     text: 'Source Serif Pro'
   custom_dir: 'theme'
-
-  # TODO(mdempsky): Set based on environment variable.
-  draft: True
+  watermark: !!python/object/apply:os.getenv ["WATERMARK"]
 
 markdown_extensions:
   - footnotes
