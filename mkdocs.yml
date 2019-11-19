@@ -13,8 +13,8 @@ theme:
     text: 'Source Serif Pro'
   custom_dir: 'theme'
 
-extra_css:
-  - extra.css
+  # TODO(mdempsky): Set based on environment variable.
+  draft: True
 
 markdown_extensions:
   - footnotes
