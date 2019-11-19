@@ -6,7 +6,7 @@ These Bylaws aim to:
 
 1. reduce conflict between and within operational teams, by creating a coherent decision-making and staffing process;
 2. allow us to move forward even in the face of disagreement, by providing democratic legitimacy to decisions and leadership;
-3. promote accountability in our commitments to ourselves and organizational partners by empowering the leadership team to align our work with our road map and annual strategic plan; and
+3. promote accountability in our commitments to ourselves and organizational partners by empowering the leadership team to align our work with our roadmap and annual strategic plan; and
 4. provide for transparency and checks and balances by which leadership can be selected, recalled, and decisions revisited.
 
 ## 1. Name
@@ -22,7 +22,7 @@ The Chapter organizes activities for Direct Action Everywhere within San Francis
 ### 3.1. Membership Classes
 
 The Chapter has 3 classes of members: Chapter Members, Organizers, and Senior Organizers.
-The standards for Chapter Members, Organizers, and Senior Organizers are [maintained by the Development Committee](https://docs.google.com/document/d/19zTkVvR3hCX8HtJBF5J7ZMFTxHBSkSDKFV4E3KUXqNk/preview).
+The standards for Chapter Members, Organizers, and Senior Organizers are [maintained by the Development Committee](https://docs.google.com/document/d/1QnJXz8YuQeBL0cz4iK60mOvQfDN1vd7SBwvVhRFDHNc/preview).
 
 Unless explicitly stated otherwise, any rule applying to Chapter Members also applies to Organizers, and any rule applying to Organizers also applies to Senior Organizers.
 
@@ -52,12 +52,12 @@ Within the parliamentary authority, the offices of Lead Organizer and Core Membe
 
 ### 4.2. Lead Organizer
 
-The Lead Organizer is responsible for making decisions on and executing the previously-approved DxE annual strategy and budget, proposing agendas for Chapter and SF Bay Core meetings, staffing/removing people from Committees, Working Groups, and projects (including the DxE website, DxE Facebook page, DxE email lists, Facebook groups, and any other resources operated by the DxE SF Bay Area chapter, including any resources operated by the DxE SF Bay Area chapter by virtue of its role on the Global Steering Committee), ensuring compliance with these bylaws, and fulfilling DxE principles and values such as emergent leadership and inclusivity.
+The Lead Organizer is responsible for making decisions on and executing the previously-approved DxE annual strategy and budget, proposing agendas for Chapter and SF Bay Core meetings, staffing/removing people from Committees, Working Groups, and projects (including the DxE website, DxE Facebook page, DxE email lists, Facebook groups, and any other resources operated by the DxE SF Bay Area chapter, including any resources operated by the DxE SF Bay Area chapter by virtue of its role on the Global Steering Committee), ensuring compliance with these bylaws, and fulfilling DxE's values.
 
 The Lead Organizer commits to seeking others' perspectives among the relevant body of people in staffing and financial decisions before making any unilateral decisions.
 Their actions are subject to the advice and consent of the SF Bay Core and the Organizers at large.
 
-The Lead Organizer will hold regular (at least monthly) open discussions with updates on progress on strategic road map and opportunity for all Chapter Members to ask questions or comment on network matters.
+The Lead Organizer will hold regular (at least monthly) open discussions with updates on progress on strategic roadmap and opportunity for all Chapter Members to ask questions or comment on network matters.
 These will most often take place on Saturday mornings.
 
 ### 4.3. Nomination Procedure, Time of Elections
@@ -94,7 +94,7 @@ If a majority threshold is not secured, the SF Bay Core will make necessary modi
 
 ### 5.3. Special Meetings
 
-Special meetings may be called by the Lead Organizer or by the SF Bay Core and must be called upon the written request of 10 Organizers.
+Special meetings may be called by the Lead Organizer or by the SF Bay Core and must be called upon the written request of 1/4 of Organizers in good standing.
 The purpose of the meeting will be stated in the meeting announcement, which must be sent to all members at least 3 days before the meeting.
 
 ### 5.4. Quorum
@@ -120,18 +120,19 @@ They will also set the hour and place of meetings, make recommendations to the C
 
 ### 6.3. Meetings
 
-The SF Bay Core will hold regular meetings every Monday morning from 10am to 12pm, unless ordered otherwise by the SF Bay Core.
+The SF Bay Core will hold regular meetings every Monday morning from 9am to 12pm, unless ordered otherwise by the SF Bay Core.
 Special meetings of the SF Bay Core may be called by the Lead Organizer and must be called upon the written request of 2 Core Members.
 
 Meetings are normally open to the public, but advanced request is required.
 Anyone interested in visiting an SF Bay Core meeting should email [sfbay@directactioneverywhere.com](mailto:sfbay@directactioneverywhere.com) with the request.
+The first hour of regular meetings are reserved for executive session.
 
 ## 7. Committees and Working Groups
 
 ### 7.1. Committees
 
-The Lead Organizer suggests and has final say over the composition of a set of Committees (including Communications, Community, Direct Action, Finance, and any others deemed necessary).
-Committees are focused on DxE's core functions, are expressly tasked with pushing forward on DxE's annual strategy and its 40 year road map, and are empowered to make decisions on resources.
+The Lead Organizer suggests and has final say over the composition of a set of Committees (including Communications, Community, Development, Direct Action, Finance, and any others deemed necessary).
+Committees are focused on DxE's core functions, are expressly tasked with pushing forward on DxE's annual strategy and its 40 year roadmap, and are empowered to make decisions on resources.
 Committee members will be appointed based on expertise, culture fit, and team effectiveness, and team size will generally be limited to 7, unless exceptional circumstances justify a larger team.
 
 ### 7.2. Working Groups
@@ -155,11 +156,11 @@ The Lead Organizer has final say over allocation of resources.
 
 ### 7.5. Removal of Working Groups
 
-An official Working Group will be dissolved or become unofficial if the group fails to meet the relevant standards, violates DxE's principles and values, or for any other good faith reason (e.g. redundancy, conflict with other Working Groups) set out by the Lead Organizer or relevant Committee lead.
+An official Working Group will be dissolved or become unofficial if the group fails to meet the relevant standards, violates DxE's values, or for any other good faith reason (e.g. redundancy, conflict with other Working Groups) set out by the Lead Organizer or relevant Committee lead.
 
 ### 7.6. Removal of Working Group Members
 
-Members of official Working Groups may be removed due to violations of DxE's principles and values, [code of conduct](https://docs.google.com/document/d/1v1bSO9UCCgifH0UZfsfZ-5CEqtUOQ7tXL5lBmJoE9w4/preview), failure to meet relevant standards, or any other good faith reason (e.g. redundancy, conflict with other Working Groups) set out by the Lead Organizer, relevant Committee lead, or relevant Working Group point person.
+Members of official Working Groups may be removed due to violations of DxE's values, [code of conduct](https://docs.google.com/document/d/1v1bSO9UCCgifH0UZfsfZ-5CEqtUOQ7tXL5lBmJoE9w4/preview), failure to meet relevant standards, or any other good faith reason (e.g. redundancy, conflict with other Working Groups) set out by the Lead Organizer, relevant Committee lead, or relevant Working Group point person.
 
 ### 7.7. List of Working Groups
 
