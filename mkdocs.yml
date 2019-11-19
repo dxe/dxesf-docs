@@ -10,7 +10,7 @@ theme:
     primary: 'blue'
     accent: 'orange'
   font:
-    text: 'Source Serif Pro'
+    text: 'Crimson Pro'
   custom_dir: 'theme'
   watermark: !!python/object/apply:os.getenv ["WATERMARK"]
 
