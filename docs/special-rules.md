@@ -15,3 +15,8 @@ Also, a member cannot serve as proxy for more than one member for the same vote.
 ## 3. Voting Cards
 
 Voting cards may be used as a voting method at Chapter meetings whenever a rising vote is in order.
+
+## 4. Electronic Voting
+
+Votes may be taken electronically, but their defining characteristics must be preserved.
+For example, if a ballot vote is taken electronically, members' votes must still be kept secret.
