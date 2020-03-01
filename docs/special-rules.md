@@ -12,6 +12,8 @@ To do so, they must notify the Secretary at least an hour before the meeting is 
 To serve as a proxy, the designated member must be eligible to vote on the question themselves.
 Also, a member cannot serve as proxy for more than one member for the same vote.
 
+For quorum, a proxy counts both for themselves and for the member they are serving.
+
 ## 3. Voting Cards
 
 Voting cards may be used as a voting method at Chapter meetings whenever a rising vote is in order.
