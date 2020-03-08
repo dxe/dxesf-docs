@@ -26,20 +26,15 @@ The standards for Chapter Members, Organizers, and Senior Organizers are [mainta
 
 Unless explicitly stated otherwise, any rule applying to Chapter Members also applies to Organizers, and any rule applying to Organizers also applies to Senior Organizers.
 
+All members may attend the Chapter's regular, annual, and special meetings.
+
 ### 3.2. Chapter Members
 
-Chapter Members may attend the Chapter's regular and annual meetings.
-
-Chapter Members may vote on community decisions that affect the social fabric of the community as a whole.
-For example, what sorts of community events we should be running, whether alcohol should be served at DxE events, aesthetics of the Berkeley Animal Rights Center, and so on.
+To be eligible to vote, a Chapter Member must have been on the the Movement-Power Index for 5 or the past 6 full months at the time of the vote.
 
 ### 3.3. Organizers
 
-Organizers may vote in elections, on the governance structure, on strategic plans for the Chapter, and any other matters the parliamentary authority allows the membership to decide.
-
-### 3.4. Movement-Power Index
-
-To be in good standing and eligible to vote, a Chapter Member must have been on the Movement-Power Index for 2 of the past 3 full months at the time of the vote.
+To be eligible to vote, an Organizer must have been on the Movement-Power Index for 2 of the past 3 full months at the time of the vote.
 
 ## 4. Officers
 
@@ -54,7 +49,7 @@ Within the parliamentary authority, the offices of Lead Organizer and Core Membe
 The Lead Organizer is responsible for making decisions on and executing the previously-approved DxE annual strategy and budget, proposing agendas for Chapter and SF Bay Core meetings, staffing/removing people from Committees, Working Groups, and projects (including the DxE website, DxE Facebook page, DxE email lists, Facebook groups, and any other resources operated by the DxE SF Bay Area chapter, including any resources operated by the DxE SF Bay Area chapter by virtue of its role on the Global Steering Committee), ensuring compliance with these bylaws, and fulfilling DxE's values.
 
 The Lead Organizer commits to seeking others' perspectives among the relevant body of people in staffing and financial decisions before making any unilateral decisions.
-Their actions are subject to the advice and consent of the SF Bay Core and the Organizers at large.
+Their actions are subject to the advice and consent of the SF Bay Core and the members at large.
 
 The Lead Organizer will hold regular (at least monthly) open discussions with updates on progress on strategic roadmap and opportunity for all Chapter Members to ask questions or comment on network matters.
 These will most often take place on Saturday mornings.
@@ -87,20 +82,18 @@ At each meeting, the SF Bay Core will update members on progress, obtain feedbac
 
 ### 5.2. Annual Meetings
 
-A meeting of all Organizers and Senior Organizers of the DxE SF Bay Area chapter must occur with 30 days notice at which the SF Bay Core will propose a strategic plan for the following year.
-The strategic plan will be adopted at the end of meeting by majority vote of current Organizers and Senior Organizers.
+An annual meeting must occur with 30 days notice at which the SF Bay Core will propose a strategic plan for the following year.
+The strategic plan will be adopted at the end of meeting by majority vote of current eligible voters.
 If a majority threshold is not secured, the SF Bay Core will make necessary modifications and announce a new meeting (with at least 2 weeks' notice) within 30 days.
 
 ### 5.3. Special Meetings
 
-Special meetings may be called by the Lead Organizer or by the SF Bay Core and must be called upon the written request of 1/4 of Organizers in good standing.
+Special meetings may be called by the Lead Organizer or by the SF Bay Core and must be called upon the written request of 1/4 of eligible voters.
 The purpose of the meeting will be stated in the meeting announcement, which must be sent to all members at least 3 days before the meeting.
 
 ### 5.4. Quorum
 
-Quorum for Chapter Member votes is 1/5 of Chapter Members in good standing.
-
-Quorum for Organizer votes is a majority of Organizers in good standing.
+Quorum is a majority of eligible voters.
 
 ### 5.5. Notice
 
