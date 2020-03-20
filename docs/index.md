@@ -30,7 +30,7 @@ All members may attend the Chapter's regular, annual, and special meetings.
 
 ### 3.2. Chapter Members
 
-To be eligible to vote, a Chapter Member must have been on the the Movement-Power Index for 5 or the past 6 full months at the time of the vote.
+To be eligible to vote, a Chapter Member must have been a Chapter Member for the past 6 full months and on the Movement-Power Index for 5 of those months at the time of the vote.
 
 ### 3.3. Organizers
 
