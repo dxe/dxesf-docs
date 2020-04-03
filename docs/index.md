@@ -88,12 +88,12 @@ If a majority threshold is not secured, the SF Bay Core will make necessary modi
 
 ### 5.3. Special Meetings
 
-Special meetings may be called by the Lead Organizer or by the SF Bay Core and must be called upon the written request of 1/4 of eligible voters.
+Special meetings may be called by the Lead Organizer or by the SF Bay Core and must be called upon the written request of 1/4 of either all eligible voters or all Organizers eligible to vote.
 The purpose of the meeting will be stated in the meeting announcement, which must be sent to all members at least 3 days before the meeting.
 
 ### 5.4. Quorum
 
-Quorum is a majority of eligible voters.
+Quorum is a majority of either all eligible voters or all Organizers eligible to vote.
 
 ### 5.5. Notice
 
