@@ -37,9 +37,20 @@ For example, what sorts of community events we should be running, whether alcoho
 
 Organizers may vote in elections, on the governance structure, on strategic plans for the Chapter, and any other matters the parliamentary authority allows the membership to decide.
 
-### 3.4. Movement-Power Index
+### 3.4. Voter Eligibility
 
-To be in good standing and eligible to vote, a Chapter Member must have been on the Movement-Power Index for 2 of the past 3 full months at the time of the vote.
+To be eligible to vote, a Chapter Member must be in good standing at the time of the vote.
+
+Good standing means a Chapter Member has:
+
+1. been on the Movement-Power Index for at least 2 of the past 3 full months; and
+2. attended at least 1 animal care event within the past 6 full months.
+
+An animal care event means:
+
+1. a sanctuary or microsanctuary work party;
+2. a pigeon de-stringing event; or
+3. any other event organized to provide direct care to animals and approved by the Animal Care Working Group.
 
 ## 4. Officers
 
