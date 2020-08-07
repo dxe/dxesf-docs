@@ -21,10 +21,10 @@ The Chapter organizes activities for Direct Action Everywhere within San Francis
 
 ### 3.1. Membership Classes
 
-The Chapter has 3 classes of members: Chapter Members, Organizers, and Senior Organizers.
-The standards for Chapter Members, Organizers, and Senior Organizers are [maintained by the Development Committee](https://docs.google.com/document/d/1QnJXz8YuQeBL0cz4iK60mOvQfDN1vd7SBwvVhRFDHNc/preview).
+The Chapter has 2 classes of members: Chapter Members and Organizers.
+The standards for Chapter Members and Organizers are [maintained by the Development Committee](https://docs.google.com/document/d/1QnJXz8YuQeBL0cz4iK60mOvQfDN1vd7SBwvVhRFDHNc/preview).
 
-Unless explicitly stated otherwise, any rule applying to Chapter Members also applies to Organizers, and any rule applying to Organizers also applies to Senior Organizers.
+Unless explicitly stated otherwise, any rule applying to Chapter Members also applies to Organizers.
 
 All members may attend the Chapter's regular, annual, and special meetings.
 
@@ -163,7 +163,7 @@ Members of official Working Groups may be removed due to violations of DxE's val
 
 ### 7.7. List of Working Groups
 
-The SF Bay Core must keep a list of official Working Groups, Chapter Members, Organizers and Senior Organizers.
+The SF Bay Core must keep a list of official Working Groups, Chapter Members, and Organizers.
 
 ## 8. Parliamentary Authority
 
