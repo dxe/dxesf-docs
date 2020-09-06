@@ -171,4 +171,4 @@ The rules contained in the 11th edition of *Robert's Rules of Order Newly Revise
 
 ## 9. Amendment of Bylaws
 
-These bylaws may be amended at any regular Chapter meeting by a 2/3 vote, provided that the amendment was submitted in writing at the previous regular meeting.
+These bylaws may be amended by a motion to *Amend Something Previously Adopted*.
