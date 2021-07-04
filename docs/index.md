@@ -119,12 +119,12 @@ They will also set the hour and place of meetings, make recommendations to the C
 
 ### 6.3. Meetings
 
-The SF Bay Core will hold regular meetings every Monday morning from 11 a.m. to 2 p.m., unless ordered otherwise by the SF Bay Core.
+The SF Bay Core will hold regular meetings every Monday morning from 12:15 p.m. to 1:30 p.m., unless ordered otherwise by the SF Bay Core.
 Special meetings of the SF Bay Core may be called by the Lead Organizer and must be called upon the written request of 2 Core Members.
 
 Meetings are normally open to the public, but advanced request is required.
 Anyone interested in visiting an SF Bay Core meeting should email [sfbay@directactioneverywhere.com](mailto:sfbay@directactioneverywhere.com) with the request.
-The first hour of regular meetings is reserved for executive session.
+The final 30 minutes of each regular meeting are reserved for executive session.
 
 ## 7. Committees and Working Groups
 
