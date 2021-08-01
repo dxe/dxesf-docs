@@ -22,7 +22,7 @@ The Chapter organizes activities for Direct Action Everywhere within San Francis
 ### 3.1. Membership Classes
 
 The Chapter has 2 classes of members: Chapter Members and Organizers.
-The standards for Chapter Members and Organizers are [maintained by the Development Committee](https://docs.google.com/document/d/1QnJXz8YuQeBL0cz4iK60mOvQfDN1vd7SBwvVhRFDHNc/preview).
+The standards for Chapter Members and Organizers are [maintained by the Development Working Group](https://docs.google.com/document/d/1QnJXz8YuQeBL0cz4iK60mOvQfDN1vd7SBwvVhRFDHNc/preview).
 
 Unless explicitly stated otherwise, any rule applying to Chapter Members also applies to Organizers.
 
@@ -46,7 +46,7 @@ Within the parliamentary authority, the offices of Lead Organizer and Core Membe
 
 ### 4.2. Lead Organizer
 
-The Lead Organizer is responsible for making decisions on and executing the previously-approved DxE annual strategy and budget, proposing agendas for Chapter and SF Bay Core meetings, staffing/removing people from Committees, Working Groups, and projects (including the DxE website, DxE Facebook page, DxE email lists, Facebook groups, and any other resources operated by the DxE SF Bay Area chapter, including any resources operated by the DxE SF Bay Area chapter by virtue of its role on the Global Steering Committee), ensuring compliance with these bylaws, and fulfilling DxE's values.
+The Lead Organizer is responsible for making decisions on and executing the previously-approved DxE annual strategy and budget, proposing agendas for Chapter and SF Bay Core meetings, staffing/removing people from Working Groups and projects (including the DxE website, DxE Facebook page, DxE email lists, Facebook groups, and any other resources operated by the DxE SF Bay Area chapter, including any resources operated by the DxE SF Bay Area chapter by virtue of its role on the Global Steering Committee), ensuring compliance with these bylaws, and fulfilling DxE's values.
 
 The Lead Organizer commits to seeking others' perspectives among the relevant body of people in staffing and financial decisions before making any unilateral decisions.
 Their actions are subject to the advice and consent of the SF Bay Core and the members at large.
@@ -126,42 +126,36 @@ Meetings are normally open to the public, but advanced request is required.
 Anyone interested in visiting an SF Bay Core meeting should email [sfbay@directactioneverywhere.com](mailto:sfbay@directactioneverywhere.com) with the request.
 The final 30 minutes of each regular meeting are reserved for executive session.
 
-## 7. Committees and Working Groups
+## 7. Working Groups
 
-### 7.1. Committees
-
-The Lead Organizer suggests and has final say over the composition of a set of Committees (including Communications, Community, Development, Direct Action, Finance, and any others deemed necessary).
-Committees are focused on DxE's core functions, are expressly tasked with pushing forward on DxE's annual strategy and its 40 year roadmap, and are empowered to make decisions on resources.
-Committee members will be appointed based on expertise, culture fit, and team effectiveness, and team size will generally be limited to 7, unless exceptional circumstances justify a larger team.
-
-### 7.2. Working Groups
+### 7.1. Working Groups
 
 The Lead Organizer has final say over the [composition of official Working Groups](https://docs.google.com/document/d/1mUybB0HQwd5pEJ2t5-uziFSlTGaExSyx3_iTIQf_HE4/preview).
-Working Groups will determine their own processes and meeting schedules, and will coordinate with other Working Groups via a designated Committee.
+Working Groups will determine their own processes and meeting schedules, and will coordinate with other Working Groups through Core.
 Where there is no request for funds/resources or conflict between Working Groups or conflict with the chapter strategy, Working Groups can continue to work autonomously.
 
 Working Groups can choose to remain unofficial and therefore completely independent if they do not seek DxE resources and mailing lists.
 The DxE SF Bay Area chapter will work with unofficial Working Groups on the basis of free association.
-Conflicts between Working Groups will be resolved by the Lead Organizer in consultation with the relevant Committees.
+Conflicts between Working Groups will be resolved by the Lead Organizer in consultation with Core.
 
-### 7.3. Membership Standards
+### 7.2. Membership Standards
 
-The point person for a Committee or Working Group may impose reasonable requirements for training, agreements, work standards, and rules of order for that Committee or Working Group.
+The point person for a Working Group may impose reasonable requirements for training, agreements, work standards, and rules of order for that Working Group.
 
-### 7.4. Resources
+### 7.3. Resources
 
-Requests for resources must be directed to the Lead Organizer or relevant Committee.
+Requests for resources must be directed to the Lead Organizer or Core.
 The Lead Organizer has final say over allocation of resources.
 
-### 7.5. Removal of Working Groups
+### 7.4. Removal of Working Groups
 
-An official Working Group will be dissolved or become unofficial if the group fails to meet the relevant standards, violates DxE's values, or for any other good faith reason (e.g. redundancy, conflict with other Working Groups) set out by the Lead Organizer or relevant Committee lead.
+An official Working Group will be dissolved or become unofficial if the group fails to meet the relevant standards, violates DxE's values, or for any other good faith reason (e.g. redundancy, conflict with other Working Groups) set out by the Lead Organizer or Core.
 
-### 7.6. Removal of Working Group Members
+### 7.5. Removal of Working Group Members
 
-Members of official Working Groups may be removed due to violations of DxE's values, [code of conduct](https://docs.google.com/document/d/1v1bSO9UCCgifH0UZfsfZ-5CEqtUOQ7tXL5lBmJoE9w4/preview), failure to meet relevant standards, or any other good faith reason (e.g. redundancy, conflict with other Working Groups) set out by the Lead Organizer, relevant Committee lead, or relevant Working Group point person.
+Members of official Working Groups may be removed due to violations of DxE's values, [code of conduct](https://docs.google.com/document/d/1v1bSO9UCCgifH0UZfsfZ-5CEqtUOQ7tXL5lBmJoE9w4/preview), failure to meet relevant standards, or any other good faith reason (e.g. redundancy, conflict with other Working Groups) set out by the Lead Organizer, Core, or relevant Working Group point person.
 
-### 7.7. List of Working Groups
+### 7.6. List of Working Groups
 
 The SF Bay Core must keep a list of official Working Groups, Chapter Members, and Organizers.
 
