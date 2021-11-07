@@ -34,7 +34,7 @@ To be eligible to vote, a Chapter Member must have been a Chapter Member for the
 
 ### 3.3. Organizers
 
-To be eligible to vote, an Organizer must have been on the Movement-Power Index for 2 of the past 3 full months at the time of the vote.
+To be eligible to vote, an Organizer must have been on the Movement-Power Index for 2 of the past 3 full months or 8 of the past 12 full months at the time of the vote.
 
 ## 4. Officers
 
