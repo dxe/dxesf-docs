@@ -161,7 +161,7 @@ The SF Bay Core must keep a list of official Working Groups, Chapter Members, an
 
 ## 8. Parliamentary Authority
 
-The rules contained in the 11th edition of *Robert's Rules of Order Newly Revised* will govern the Chapter in all cases to which they are applicable and in which they are not inconsistent with these bylaws and any [special rules of order](special-rules.md) the Chapter may adopt.
+The rules contained in the 12th edition of *Robert's Rules of Order Newly Revised* will govern the Chapter in all cases to which they are applicable and in which they are not inconsistent with these bylaws and any [special rules of order](special-rules.md) the Chapter may adopt.
 
 ## 9. Amendment of Bylaws
 
