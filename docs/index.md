@@ -56,7 +56,7 @@ These will most often take place on Saturday mornings.
 
 ### 4.3. Nomination Procedure, Time of Elections
 
-Any Organizer who has been an Organizer for the last 6 months at the time of election is eligible for office.
+Any Organizer who has been an Organizer for the last 6 months and is an eligible voter at the time of election is eligible for office.
 
 Officers will be nominated at the February regular Chapter meeting.
 The election will then take place at a special meeting held 2 weeks later.
@@ -119,7 +119,7 @@ They will also set the hour and place of meetings, make recommendations to the C
 
 ### 6.3. Meetings
 
-The SF Bay Core will hold regular meetings every Tuesday morning from 10:00 a.m. to 11:30 a.m., unless ordered otherwise by the SF Bay Core.
+The SF Bay Core will hold regular meetings every Monday morning from 10:00 a.m. to 11:30 a.m., unless ordered otherwise by the SF Bay Core.
 Special meetings of the SF Bay Core may be called by the Lead Organizer and must be called upon the written request of 2 Core Members.
 
 Meetings are normally open to the public, but advanced request is required.
