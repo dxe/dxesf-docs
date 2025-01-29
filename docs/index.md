@@ -1,5 +1,7 @@
 # Bylaws
 
+Link to this page: https://dxe.io/bylaws
+
 ## Preamble
 
 These Bylaws aim to:
