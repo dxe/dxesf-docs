@@ -56,6 +56,5 @@ that all votes are conducted in accordance with these principles.
 
 ## 5. Notetaking
 
-The responsibility for taking meeting notes shall be assigned by the facilitator
-before each meeting. The appointed notetaker shall be a chapter member other
-than the Secretary.
+The facilitator shall appoint a chapter member to take meeting notes before
+each meeting. This role is not limited to the secretary.
