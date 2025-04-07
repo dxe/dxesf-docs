@@ -53,8 +53,10 @@ The Lead Organizer is responsible for making decisions on and executing the prev
 The Lead Organizer commits to seeking others' perspectives among the relevant body of people in staffing and financial decisions before making any unilateral decisions.
 Their actions are subject to the advice and consent of the SF Bay Core and the members at large.
 
-The Lead Organizer will hold regular (at least monthly) open discussions with updates on progress on strategic roadmap and opportunity for all Chapter Members to ask questions or comment on network matters.
-These will most often take place on Saturday mornings.
+The Lead Organizer will hold regular open discussions with updates on progress
+on strategic roadmap and opportunity for all Chapter Members to ask questions or
+comment on network matters. These will most often take place during the regular
+Chapter meeting.
 
 ### 4.3. Nomination Procedure, Time of Elections
 
@@ -122,7 +124,8 @@ They will also set the hour and place of meetings, make recommendations to the C
 
 ### 6.3. Meetings
 
-The SF Bay Core will hold regular meetings every Monday morning from 10:00 a.m. to 11:30 a.m., unless ordered otherwise by the SF Bay Core.
+The SF Bay Core will hold regular meetings every week, unless ordered otherwise
+by the SF Bay Core.
 Special meetings of the SF Bay Core may be called by the Lead Organizer and must be called upon the written request of 2 Core Members.
 
 Meetings are normally open to the public, but advanced request is required.
