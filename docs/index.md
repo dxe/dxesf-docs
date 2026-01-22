@@ -68,7 +68,7 @@ The election will then take place at a special meeting held 2 weeks later.
 ### 4.4. Ballot Election, Term of Office, Removal from Office
 
 Officers will be elected by ballot using [Reweighted Range Voting](https://www.rangevoting.org/RRV.html).
-Officers will serve for 2 years or until their successors are elected, and their term of office will be begin at the close of the meeting at which they are elected.
+Officers will serve for 2 years or until their successors are elected, and their term of office will begin at the close of the meeting at which they are elected.
 Officers may be removed from office at the will of the membership as provided in the parliamentary authority.
 
 ### 4.5. Office-Holding Limitations
