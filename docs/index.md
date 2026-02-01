@@ -68,12 +68,26 @@ The election will then take place at a special meeting held 2 weeks later.
 ### 4.4. Ballot Election, Term of Office, Removal from Office
 
 Officers will be elected by ballot using [Reweighted Range Voting](https://www.rangevoting.org/RRV.html).
-Officers will serve for 2 years or until their successors are elected, and their term of office will begin at the close of the meeting at which they are elected.
+Write-in votes are not permitted and shall not be counted.
+Each ballot for an office must include a "None of the above" option.
+To be elected, a candidate must score higher than "None of the above" under the reweighted range voting tally.
+
+Terms are 2 years and begin at the close of the meeting at which the officer is elected. Officers continue to serve
+until their successors are elected.
+
+Core Members (4 seats): Up to 4 candidates may be elected. If fewer than 4 candidates are elected, the remaining seat(s)
+are vacant and may be filled under Section 4.6. Vacancies are permitted provided at least 1 Core Member is elected. If
+no Core Members are elected, all previous Core Members continue to serve until successors are elected.
+
 Officers may be removed from office at the will of the membership as provided in the parliamentary authority.
 
 ### 4.5. Office-Holding Limitations
 
 A member cannot hold more than 1 office at a time.
+
+### 4.6. Vacancies
+
+Vacancies in any office or seat may be filled by election of the membership at any regular or special meeting.
 
 ## 5. Meetings
 
@@ -115,7 +129,7 @@ Notice of meetings will be sent to the [chaptermembers@dxe.io](mailto:chaptermem
 
 ### 6.1. Composition
 
-The SF Bay Core consists of the Lead Organizer and the 4 Core Members.
+The SF Bay Core consists of the Lead Organizer and up to 4 Core Members.
 
 ### 6.2. Duties and Powers
 
