@@ -70,6 +70,9 @@ The election will then take place at a special meeting held 2 weeks later.
 Officers will be elected by ballot using [Reweighted Range Voting](https://www.rangevoting.org/RRV.html).
 Write-in votes are not permitted and shall not be counted.
 
+If, for any office, the number of eligible candidates who have accepted nomination does not exceed the number to be
+elected for that office, those candidates shall be deemed elected and need not appear on the ballot.
+
 Officers will serve for 2 years or until their successors are elected, and their term of office will begin at the close of the meeting at which they are elected.
 Officers may be removed from office at the will of the membership as provided in the parliamentary authority.
 
