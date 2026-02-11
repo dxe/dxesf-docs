@@ -81,18 +81,20 @@ A member cannot hold more than 1 office at a time.
 
 If any officer position becomes vacant, or if an officer is unable to perform the duties of the office, the Lead
 Organizer may appoint any individual to serve as an interim officer. If the Lead Organizer is unavailable or unable to
-act, the remaining available members of the SF Bay Core may make such appointments by majority agreement among
-themselves; if no members of the SF Bay Core are available, the remaining available Organizers may do so by majority
-agreement among themselves. Interim officers need not otherwise meet the eligibility requirements for elected office.
+act, the remaining available elected members of the SF Bay Core may make such appointments by majority agreement among
+themselves; if no elected members of the SF Bay Core are available, the remaining available Organizers may do so by
+majority agreement among themselves. Interim officers need not otherwise meet the eligibility requirements for elected
+office.
 
-An interim officer serves until the next regular or special election at which the position can be filled, or until the
-original officer resumes their duties, whichever occurs first. For purposes of this section, individuals who are
-unreachable or unable to respond within a reasonable time under the circumstances are considered unavailable, and those
-present and participating may act notwithstanding such unavailability.
+An interim officer serves until the next regular or special election at which the office can be filled, or until the
+elected officer for that office resumes serving, whichever occurs first. For the four Core Member seats, if the return
+or installation of elected Core Members would result in more than four persons serving as Core Members, the Lead
+Organizer shall determine which interim Core appointment(s) end as necessary to ensure no more than four persons are
+serving as Core Members; if the Lead Organizer is unavailable, the remaining available elected Core Members shall do so.
 
-If previously unavailable elected officers later resume their duties and the number of individuals serving in an office
-exceeds the number authorized in these bylaws, interim appointments end as necessary to restore the authorized number of
-officers, as determined by the Lead Organizer or, if unavailable, by the remaining available members of the SF Bay Core.
+For purposes of this section, individuals who are unreachable or unable to respond within a reasonable time under the
+circumstances are considered unavailable, and those present and participating may act notwithstanding such
+unavailability.
 
 ## 5. Meetings
 
