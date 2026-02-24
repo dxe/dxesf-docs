@@ -63,7 +63,7 @@ Chapter meeting.
 Any Organizer who has been an Organizer for the last 6 months and is an eligible voter at the time of election is eligible for office.
 
 Officers will be nominated at the February regular Chapter meeting.
-The election will then take place at a special meeting held 2 weeks later.
+The election will then take place by online ballot 2 weeks later.
 
 ### 4.4. Ballot Election, Term of Office, Removal from Office
 
