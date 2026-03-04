@@ -77,6 +77,25 @@ Officers may be removed from office at the will of the membership as provided in
 
 A member cannot hold more than 1 office at a time.
 
+### 4.6 Vacancies, Inability to Serve, and Interim Appointments
+
+If any officer position becomes vacant, or if an officer is unable to perform the duties of the office, the Lead
+Organizer may appoint any individual to serve as an interim officer. If the Lead Organizer is unavailable or unable to
+act, the remaining available elected members of the SF Bay Core may make such appointments by majority agreement among
+themselves; if no elected members of the SF Bay Core are available, the remaining available Organizers may do so by
+majority agreement among themselves. Interim officers need not otherwise meet the eligibility requirements for elected
+office.
+
+An interim officer serves until the next regular or special election at which the office can be filled, or until the
+elected officer for that office resumes serving, whichever occurs first. For the four Core Member seats, if the return
+or installation of elected Core Members would result in more than four persons serving as Core Members, the Lead
+Organizer shall determine which interim Core appointment(s) end as necessary to ensure no more than four persons are
+serving as Core Members; if the Lead Organizer is unavailable, the remaining available elected Core Members shall do so.
+
+For purposes of this section, individuals who are unreachable or unable to respond within a reasonable time under the
+circumstances are considered unavailable, and those present and participating may act notwithstanding such
+unavailability.
+
 ## 5. Meetings
 
 ### 5.1. Regular Meetings
@@ -108,6 +127,16 @@ Quorum is a majority of either:
 
 1. all eligible voters or
 2. all Organizers eligible to vote.
+
+### 5.4.1 Emergency Quorum
+
+If, due to arrests, detention, incapacitation, loss of communications, or other extraordinary circumstances, a
+substantial portion of eligible voters cannot reasonably participate, quorum shall be a majority of the eligible voters
+who are reasonably available to participate at the time of the meeting. The presiding officer shall announce the basis
+for invoking this provision at the start of the meeting.
+
+This emergency quorum provision may not be used to amend the bylaws, remove officers, or elect officers unless prior
+notice of the specific action was given.
 
 ### 5.5. Notice
 
